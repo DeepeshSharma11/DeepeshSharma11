@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently pursuing BTech in computer science and engineering from invertis University 
-
+I am a pre-final year B.Tech student in Computer Science & Engineering at Invertis University.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ur.x.deepesh21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepesh84) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepeshtech8433@gmail.com) 
