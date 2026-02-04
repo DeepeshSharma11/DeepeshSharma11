@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a pre-final year B.Tech student in CSE at Invertis University. I'm an entrepreneur at heart, a passionate developer, and the founder of InfoTechrounder.
+I am a pre-final year B.Tech student in CSE at Invertis University. I'm an entrepreneur at heart, a passionate developer, and the founder of TechnoviaX Tech.
 
 - 🔭 I’m currently building a **Projects** using FastAPI and PostgreSQL.
 
