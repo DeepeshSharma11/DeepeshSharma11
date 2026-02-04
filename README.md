@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am a pre-final year B.Tech student in CSE at Invertis University. I'm an entrepreneur at heart, a passionate developer, and the founder of InfoTechrounder.
 
-- 🔭 I’m currently building a **YouTube-style platform** using FastAPI and PostgreSQL.
-- ⚡ I’m interning in **Fluid Analysis** and exploring the intersection of engineering and code.
+- 🔭 I’m currently building a **Projects** using FastAPI and PostgreSQL.
+
 - 🌱 Currently deep-diving into **System Design** and **Advanced DSA in Java**.
 
 ## 🌐 Socials:
