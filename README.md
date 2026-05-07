@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a pre-final year B.Tech student in CSE at Invertis University. I'm an entrepreneur at heart, a passionate developer, and the founder of TechnoviaX Tech.
+Full Stack Developer | DevOps & AWS Cloud | AI Developer | CTO @ Focitech | React, FastAPI, Docker, CI/CD, PostgreSQL
 
 - 🔭 I’m currently building a **Projects** using FastAPI and PostgreSQL.
 
