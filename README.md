@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**Full Stack Developer · DevOps & AWS Cloud · AI Developer · CTO @ Focitech**
+**Full Stack Developer · DevOps & AWS Cloud · AI Developer **
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+scalable+AI-powered+products;FastAPI+%7C+React+%7C+Docker+%7C+PostgreSQL;System+Design+%26+Advanced+DSA+in+Java;CTO+%40+Focitech+%7C+Bareilly%2C+India)](https://git.io/typing-svg)
 
